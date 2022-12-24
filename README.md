@@ -146,6 +146,7 @@ More details here: https://www.statology.org/linear-regression-assumptions/
     * https://coderzcolumn.com/tutorials/machine-learning/simple-guide-to-optuna-for-hyperparameters-optimization-tuning (optuna framework)
     * https://cse.iitk.ac.in/users/piyush/courses/ml_autumn16/771A_lec21_slides.pdf (basic best)
     * https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class23.pdf
+    * https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
 # Clustering Algorithms
 Using clustering, we can group similar items, products, and users together. This grouping, or segmenting, works across industries. Clustering is the process of dividing the entire data into groups (also known as clusters) based on the patterns in the data.
 ## Properties of clusters
